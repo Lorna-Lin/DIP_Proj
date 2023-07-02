@@ -154,11 +154,9 @@ DjangoRestframewor
 
 ## 项目概览
 
-![image-20230702194048606](C:\Users\59980\AppData\Roaming\Typora\typora-user-images\image-20230702194048606.png)
-
-![image-20230702194124621](C:\Users\59980\AppData\Roaming\Typora\typora-user-images\image-20230702194124621.png)
-
-![image-20230702201714769](C:\Users\59980\AppData\Roaming\Typora\typora-user-images\image-20230702201714769.png)
+![image-20230702194124621](https://lorna-image.oss-cn-shanghai.aliyuncs.com/typora/image-20230702194124621.png)
+![image-20230702194048606](https://lorna-image.oss-cn-shanghai.aliyuncs.com/typora/image-20230702194048606.png)
+![image-20230702201714769](https://lorna-image.oss-cn-shanghai.aliyuncs.com/typora/image-20230702201714769.png)
 
 ## 项目人员
 
